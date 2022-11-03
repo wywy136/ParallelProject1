@@ -1,0 +1,30 @@
+Now testing sequential - xsmall
+Now testing sequential - small
+Now testing sequential - medium
+Now testing sequential - large
+Now testing sequential - xlarge
+Now testing parallel - xsmall - 2
+Now testing parallel - xsmall - 4
+Now testing parallel - xsmall - 6
+Now testing parallel - xsmall - 8
+Now testing parallel - xsmall - 12
+Now testing parallel - small - 2
+Now testing parallel - small - 4
+Now testing parallel - small - 6
+Now testing parallel - small - 8
+Now testing parallel - small - 12
+Now testing parallel - medium - 2
+Now testing parallel - medium - 4
+Now testing parallel - medium - 6
+Now testing parallel - medium - 8
+Now testing parallel - medium - 12
+Now testing parallel - large - 2
+Now testing parallel - large - 4
+Now testing parallel - large - 6
+Now testing parallel - large - 8
+Now testing parallel - large - 12
+Now testing parallel - xlarge - 2
+Now testing parallel - xlarge - 4
+Now testing parallel - xlarge - 6
+Now testing parallel - xlarge - 8
+Now testing parallel - xlarge - 12
