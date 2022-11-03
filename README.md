@@ -81,7 +81,7 @@ ok  	proj1/twitter	86.761s
 
 Data for the graph below is obtained by averaging the time of 5 runs on the `debug` Peanut cluster.
 
-![](../benchmark/plot.png)
+![](./benchmark/plot.png)
 
 Generally the trends are quite reasonable as the number of threads increases as well as the size of problem changes. 
 - When the problem size is small (xsmall, small), there is almost no speedup because the overhead of spawning and managing multiple threads may overweight the actual speedup gained from the reduced workload.
